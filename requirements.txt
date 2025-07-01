@@ -1,0 +1,11 @@
+# Python dependencies
+numpy<2.0
+pillow
+pandas
+matplotlib
+plotly
+scikit-learn
+umap-learn
+torch          # CPU 版で自動インストール
+torchvision
+dash
