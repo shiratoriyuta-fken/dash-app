@@ -12,11 +12,8 @@
 ## 動作デモ
 
 ![動作デモ](page.png)
-
-dog_gradcam.png
-cat_gradcam.png
-
-*(このセクションは、ご自身で作成した画像に差し替えてください。作成方法は後述します)*
+![動作デモ](dog_gradcam.png)
+![動作デモ](cat_gradcam.png)
 
 ## このツールで何ができるか？
 
